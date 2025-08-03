@@ -35,9 +35,4 @@ SwapBridge Pay is a simple, fast, and gas-optimized cross-chain relay that enabl
 - MetaMask (connected to Sepolia testnet)
 - Stellar testnet account (use [Stellar Laboratory](https://laboratory.stellar.org))
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/swapbridge-pay.git
-cd swapbridge-pay
 
